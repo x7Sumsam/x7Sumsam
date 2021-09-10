@@ -1,5 +1,3 @@
-Script
-    
     whlie true do wait(.1)
     if game:GetService("Players").LocalPlayer.Data.Level.Value == 700 then
     
