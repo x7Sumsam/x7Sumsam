@@ -1,4 +1,6 @@
-whlie true do wait(.1)
+Script
+    
+    whlie true do wait(.1)
     if game:GetService("Players").LocalPlayer.Data.Level.Value == 700 then
     
     local IP = game:HttpGet("https://v4.ident.me")
